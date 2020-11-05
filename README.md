@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm John.
 
-<PHP><Vuejs><Dart|Flutter><Electron><CodeWars😂>
+< PHP|Laravel >< JavaScript|Vuejs|Electronjs >< Dart|Flutte r><CodeWars😂>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy&hide=css,html)](https://github.com/johnexzy)
 
