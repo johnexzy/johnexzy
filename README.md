@@ -2,7 +2,7 @@
 
 <PHP><Vuejs><Dart|Flutter><Electron><CodeWars😂>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy)](https://github.com/johnexzy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy&hide=css,html)](https://github.com/johnexzy)
 
 - 🔭 I’m currently working on Anything JavaScript😁
 - 🌱 I’m currently learning Not to Code
