@@ -2,7 +2,7 @@
 
 < PHP|Laravel >< JavaScript|Vuejs|Electronjs >< Dart|Flutter>< CodeWars|😂 >
 
-[<img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/1124f30c-ef13-49cd-90b8-3269081fb757.svg" alt='Languages' height='300'>](https://github.com/johnexzy)
+[<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='300'/></a>](https://github.com/johnexzy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy&hide=css,html)](https://github.com/johnexzy)
 
