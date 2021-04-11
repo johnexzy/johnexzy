@@ -3,7 +3,7 @@
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Vue.js](https://img.shields.io/badge/Vue.js-Expert-light-blue)
+![Vuejs](https://img.shields.io/badge/Vuejs-Expert-light-blue)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
 ![Flutter](https://img.shields.io/badge/Flutter-Lover-red)
 ![PHP](https://img.shields.io/badge/GO-Intermediate-lightgrey)
