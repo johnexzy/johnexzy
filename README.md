@@ -1,4 +1,4 @@
-### Hi there 👋, I'm John.
+# Hi there 👋, I'm John.
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
@@ -11,9 +11,9 @@
 - 🏢 I'm currently working at **StartupList Africa**
 - 🌱 Learn all about **Startup Ecosystem and Financial Market**
 
-###Coding activity
+##Coding activity
 
-[![code_activity]<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='500'/></a>](https://github.com/johnexzy)
+[<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='500'/></a>](https://github.com/johnexzy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy)](https://github.com/johnexzy)
 
