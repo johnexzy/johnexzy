@@ -5,8 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Vuejs](https://img.shields.io/badge/Vuejs-Expert-blue)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
-![Flutter](https://img.shields.io/badge/Flutter-Lover-red)
-![PHP](https://img.shields.io/badge/GO-Intermediate-lightgrey)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-red)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Expert-orange)
 
 
