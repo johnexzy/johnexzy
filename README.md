@@ -16,7 +16,7 @@
 - ⚡ Fact about John:  I love chemistry
 
 
-#Coding activity
+## Coding activity
 
 [<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='500'/></a>](https://github.com/johnexzy)
 
