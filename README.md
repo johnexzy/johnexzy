@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm John.
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Vuejs](https://img.shields.io/badge/Vuejs-Expert-blue)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
