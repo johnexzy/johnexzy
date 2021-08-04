@@ -18,9 +18,8 @@
 
 ## Coding activity
 
-[<a href="(https://wakatime.com/@Johnexzy"><img src="https://wakatime.com/share/@Johnexzy/c61ce9d7-ba7d-4269-97dc-27d043e74a2f.png" alt='Coding Activity' height='500'/></a>]
-[<a href="(https://wakatime.com/@Johnexzy"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='500'/></a>](https://wakatime.com/@Johnexzy)
-
+<a href="https://wakatime.com/@Johnexzy"><img src="https://wakatime.com/share/@Johnexzy/c61ce9d7-ba7d-4269-97dc-27d043e74a2f.png" alt='Coding Activity' height='500'/></a>
+<a href="https://wakatime.com/@Johnexzy"><img src="https://wakatime.com/share/@f541c919-0d3d-4b73-a292-ef698b42d7dd/7bbffdcd-b038-4bc2-bb39-e9ad0d2a41fe.png" alt='Languages' height='500'/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy)](https://github.com/johnexzy)
 
 
