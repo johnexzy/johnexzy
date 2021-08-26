@@ -6,6 +6,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange)
+[![wakatime](https://wakatime.com/badge/github/youngbobby/startuplist-vue.svg)](https://wakatime.com/badge/github/youngbobby/startuplist-vue)
 
 
 - 🏢 I'm currently working at **StartupList Africa**
