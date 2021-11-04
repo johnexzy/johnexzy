@@ -9,7 +9,7 @@
 
 
 
-- 🏢 I'm currently building on the Ecosystem with **StartupList Africa**
+- 🏢 I'm currently building on the Startup Ecosystem with **StartupList Africa**
 - 🌱 I’m currently learning to stay out of bugs.
 - 👯 Let's talk about web3
 
