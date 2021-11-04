@@ -9,12 +9,9 @@
 
 
 
-- 🏢 I'm currently working at **StartupList Africa**
-- 🌱 Learning all about **Startup Ecosystem and Financial Market**
-- 🔭 Working with Quasar (Vue.js)😁
+- 🏢 I'm currently building on the Ecosystem with **StartupList Africa**
 - 🌱 I’m currently learning to stay out of bugs.
-- 👯 Computational Chemist Ethusiast
-- ⚡ Fact about John:  I love chemistry
+- 👯 Let's talk about web3
 
 
 ## Coding activity
