@@ -6,6 +6,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange)
+![Solidity](https://img.shields.io/badge/Solidity-Intermediate-orange)
 
 
 
