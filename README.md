@@ -16,13 +16,6 @@
 - 👯 Let's talk about web3
 
 
-## Coding activity
-[![Startuplist Africa](https://wakatime.com/badge/github/youngbobby/startuplist-vue.svg)](https://wakatime.com/badge/github/youngbobby/startuplist-vue)
-
-
-<a href="https://wakatime.com/@Johnexzy"><img src="https://wakatime.com/share/@Johnexzy/d921ef90-64cd-4040-84ac-bb8684c30ab5.png" height='500' /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnexzy)](https://github.com/johnexzy)
-
 
 ### Reach me here
 
