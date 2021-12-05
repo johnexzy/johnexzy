@@ -1,6 +1,6 @@
 # Hi there 👋, I'm John.
 
-<p>Welcome to my space</p>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Vuejs](https://img.shields.io/badge/Vuejs-Expert-blue)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-green)
