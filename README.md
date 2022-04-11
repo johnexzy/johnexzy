@@ -1,10 +1,11 @@
 # Hi there 👋, I'm John.
 
-
+- 🏢 I Build intelligence systems in web2 and blockchain space
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnexzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnexzy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnexzy" alt="johnexzy" /></a> </p>
 
-- 🏢 Building intelligence systems in web2 and blockchain space
+
 
 
 
