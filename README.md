@@ -11,3 +11,5 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnexzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnexzy" /> </p>
 
+[1]: https://www.linkedin.com/in/anthony-nwobodo/
+[2]: https://twitter.com/intent/follow?screen_name=Francosion042
