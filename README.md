@@ -3,7 +3,7 @@
 
 - 🏢 I Build intelligence systems on the web and blockchain space
 - Vue.js, Typescript, DiscordJS, PHP, Laravel, AdonisJs, Solidity, EthersJS, Web3JS, JAMSTACK.
-- Open for for remote roles
+- Open for remote gigs
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/johnoba/][1]
