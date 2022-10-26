@@ -4,6 +4,10 @@
 - 🏢 I Build intelligence systems on the web and blockchain space
 - Vue.js, Typescript, DiscordJS, PHP, Laravel, AdonisJs, Solidity, EthersJS, Web3JS, JAMSTACK.
 - Open to remote gigs
+
+## Projects
+<a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>
+<a href="https://web3bot.gg" target="_blank">Web3bot</a>
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/johnoba/][1]
