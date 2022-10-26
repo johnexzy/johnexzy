@@ -6,7 +6,7 @@
 - Open to remote gigs
 
 ## Projects
-<a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>
+<p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a></p>
 <a href="https://web3bot.gg" target="_blank">Web3bot</a>
 ## 📬 Get in touch
 
