@@ -6,8 +6,8 @@
 - Open to remote gigs
 
 ## Projects
-<p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a></p>
-<a href="https://web3bot.gg" target="_blank">Web3bot</a>
+<p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: The best place to discover african startups</p>
+<p><a href="https://web3bot.gg" target="_blank">Web3bot</a> A super non-custodial wallet integration for discord community</p>
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/johnoba/][1]
