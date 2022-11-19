@@ -1,7 +1,7 @@
 # Hi there, I am John Obinna | afrodev👋
 ## Welcome to my space, mostly experimental. 
 
-- 🏢 I Build intelligence systems on the web and blockchain space
+- I Build intelligence systems on the web
 - Vue.js, Typescript, DiscordJS, PHP, Laravel, AdonisJs, Solidity, EthersJS, Web3JS, JAMSTACK.
 - Open to remote gigs
 
