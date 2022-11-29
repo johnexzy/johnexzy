@@ -1,9 +1,7 @@
-# Hi there, I am John Obinna | afrodev👋
-## Welcome to my space, mostly experimental. 
+# Hi there, I am John Oba | afrodev👋
 
-- I Build intelligence systems on the web
-- Vue.js, Typescript, DiscordJS, PHP, Laravel, AdonisJs, Solidity, EthersJS, Web3JS, JAMSTACK.
-- Open to remote gigs
+
+
 
 ## Projects
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: The best place to discover african startups</p>
