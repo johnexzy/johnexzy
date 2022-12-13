@@ -7,6 +7,7 @@
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: The best place to discover african startups</p>
 <p><a href="https://web3bot.gg" target="_blank">Web3bot</a> A super non-custodial wallet integration for discord community</p>
 <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a> Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
+<p><a href="https://annibo.up.railway.app/" target="_blank">AnniBo</a> Generate intriguing contents, articles and blog with AI </p>
 
 ## 📬 Get in touch
 
@@ -20,3 +21,4 @@
 [1]: https://www.linkedin.com/in/johnoba/
 [2]: https://twitter.com/intent/follow?screen_name=_afrodev
 [3]: https://johnoba.substack.com
+[4]: https://annibo.up.railway.app/
