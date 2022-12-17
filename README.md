@@ -4,7 +4,7 @@
 
 
 ## Projects
-<p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: The best place to discover african startups</p>
+<p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
 <p><a href="https://web3bot.gg" target="_blank">Web3bot</a> A super non-custodial wallet integration for discord community</p>
 <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a> Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
 <p><a href="https://annibo.up.railway.app/" target="_blank">AnniBo</a> Take Your Content Creation to the Next Level with GPT-3 </p>
