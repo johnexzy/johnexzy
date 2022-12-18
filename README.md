@@ -9,7 +9,7 @@ This is an exploration zone. Don't be concerned if you don't understand much of 
 - Exploring Tech Trends: AI, Blockchain 
 - I build bots 
 
-## Projects
+## Side stuffs
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
 <p><a href="https://web3bot.gg" target="_blank">Web3bot</a> A super non-custodial wallet integration for discord community</p>
 <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a> Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
