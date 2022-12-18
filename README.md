@@ -1,7 +1,13 @@
 # Hi there, I am John Oba | afrodev👋
 
+This is an exploration zone. Don't be concerned if you don't understand much of what's here – I'm still trying to comprehend it too.
 
+## Currently?
 
+- 🔭 I’m currently working on opensource, experimental & private projects
+- 💬 Ask me about Javascript, Football & Science.
+- Exploring Tech Trends: AI, Blockchain 
+- I build bots 
 
 ## Projects
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
