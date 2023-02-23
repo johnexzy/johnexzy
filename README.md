@@ -5,9 +5,9 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 ## Currently?
 
 - 🔭 I’m currently working on opensource, experimental & private projects
-- 💬 Ask me about Javascript, Football & Science.
+- 💬 Ask me about Tech, Football & Science.
 - Exploring Tech Trends: AI, Blockchain 
-- I build bots 
+- I build bots for quick wins
 
 ## Side projects  & startups 😊
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
