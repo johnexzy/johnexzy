@@ -5,7 +5,7 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 ## Currently?
 
 - 🔭 I’m currently working on opensource, experimental & private projects
-- 💬 Ask me about Tech, Football & Science.
+- 💬 Ask me about Tech, Vuejs & Science.
 - Exploring Tech Trends: AI, Blockchain 
 - I build bots for quick wins
 
