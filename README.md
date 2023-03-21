@@ -24,7 +24,7 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 - LinkedIn: [linkedin.com/in/johnoba/][1]
 - Twitter: [twitter.com/_afrodev][2]
 - E-mail: [obajohn75@gmail.com]
-- Writes at : [Substack][3]
+- Writes at : [Afrodev][3]
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnexzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnexzy" /> </p>
 
