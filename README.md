@@ -16,6 +16,7 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a> Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
 <p><a href="https://annibo.up.railway.app/" target="_blank">AnniBo</a> Take Your Content Creation to the Next Level with GPT-3 </p>
 <p><a href="https://github.com/johnexzy/Dalle-gen" target="_blank">Dalle-gen</a> Bring Your Ideas to Life with Dall-e engine directly from discord </p>
+<p><a href="https://afrodev.space" target="_blank">Afrodev.space</a>The Code Chronicles: Explore Practical Software Development Stories</p>
 <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a> Get Paid for Your Content with Token-Gated Access </p>
 
 ## 📬 Get in touch
