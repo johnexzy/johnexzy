@@ -5,9 +5,10 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 ## Currently?
 
 - 🔭 I’m currently working on opensource, experimental & private projects
-- 💬 Ask me about Tech, Vuejs & Science.
 - Exploring Tech Trends: AI, Blockchain 
-- I build bots for quick wins
+- I automate things for quick wins
+
+> Explore tech articles at [afrodev.space][3]
 
 ## Side projects  & startups 😊
 <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
@@ -28,5 +29,5 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 
 [1]: https://www.linkedin.com/in/johnoba/
 [2]: https://twitter.com/intent/follow?screen_name=_afrodev
-[3]: https://johnoba.substack.com
+[3]: https://afrodev.space
 [4]: https://annibo.up.railway.app/
