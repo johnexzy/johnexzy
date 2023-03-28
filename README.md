@@ -4,9 +4,9 @@ This is an exploration zone, somethings here are half baked. Don't be concerned 
 
 ## Currently?
 
-- 🔭 I’m currently working on opensource, experimental & private projects
+- Being Human
 - Exploring Tech Trends: AI, Blockchain 
-- I automate things for quick wins
+- Sacling and Automating things for quick wins
 
 > Explore tech articles at [afrodev.space][3]
 
