@@ -1,6 +1,7 @@
 # Hi there, I am John Oba | afrodev👋
 
-This is an exploration zone, somethings here are half baked. Don't be concerned if you don't understand much of what's here – I'm still trying to comprehend it too.
+This is an exploration zone, somethings here are half baked. 
+Don't be concerned if you don't understand much of what's here – I'm still trying to comprehend it too.
 
 ## Currently?
 
