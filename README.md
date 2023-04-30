@@ -1,13 +1,9 @@
 # Hi there, I am John Oba | afrodev👋
 
 This is an exploration zone, somethings here are half baked. 
-Don't be concerned if you don't understand much of what's here – I'm still trying to comprehend it too.
 
-## Currently?
-
-- Being Human
-- Exploring Tech Trends: AI, Blockchain 
-- Sacling and Automating things for quick wins
+## Me
+Passionate about module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
 
 > Explore tech articles at [afrodev.space][3]
 
@@ -19,6 +15,8 @@ Don't be concerned if you don't understand much of what's here – I'm still try
 - <p><a href="https://github.com/johnexzy/Dalle-gen" target="_blank">Dalle-gen</a>: Bring Your Ideas to Life with Dall-e engine directly from discord </p>
 - <p><a href="https://afrodev.space" target="_blank">Afrodev.space</a> The Code Chronicles: Explore Practical Software Development Stories</p>
 - <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a>: Get Paid for Your Content with Token-Gated Access </p>
+
+## Core : Node + Typescript; Vuejs ReactJs, Nuxt, Next, Quasar, Gatsby, Taiwlind, Gsap
 
 ## 📬 Get in touch
 
