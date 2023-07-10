@@ -5,6 +5,8 @@ This is an exploration zone, somethings here are half baked.
 ## Me
 22y old, Passionate about module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
 
+## Core : Node + TS, Vuejs ReactJs, Nuxt, Next, Quasar, Gatsby, Taiwlind, Gsap
+
 > Explore tech articles at [afrodev.space][3]
 
 ## Personal projects  & startups 😊
@@ -16,7 +18,7 @@ This is an exploration zone, somethings here are half baked.
 - <p><a href="https://afrodev.space" target="_blank">Afrodev.space</a> The Code Chronicles: Explore Practical Software Development Stories</p>
 - <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a>: Get Paid for Your Content with Token-Gated Access </p>
 
-## Core : Node + Typescript; Vuejs ReactJs, Nuxt, Next, Quasar, Gatsby, Taiwlind, Gsap
+
 
 ## 📬 Get in touch
 
