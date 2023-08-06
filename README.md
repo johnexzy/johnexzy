@@ -3,13 +3,15 @@
 I love indie hacking, as a result here is an exploration zone, somethings are broken or half baked. 
 
 ## Me in tech
-I amPassionate about modern Frontend: module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
+I am passionate about modern frontend: module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
 
-## Core : Node + TS, Vuejs ReactJs, Nuxt, Next, Quasar, Gatsby, Taiwlind, Gsap
+
+
+## Core : Node + TS, Vuejs ReactJs, Nuxt, Next, Quasar, Gatsby, Taiwlind, Gsap and anyother thing to get it SHIPPED
 
 > Explore tech articles at [afrodev.space][3]
 
-## Side stuffs 
+## Side stuffs from my indie hacks
 - <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
 - <p><a href="https://web3bot.gg" target="_blank">Web3bot</a>: A super non-custodial wallet integration for blockchain discord communities</p>
 - <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a>: Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
