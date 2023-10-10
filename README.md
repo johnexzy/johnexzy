@@ -1,11 +1,12 @@
-# Hi there, I am John Oba | afrodev👋
+# Hi there 👋
 
 This is an exploration zone, somethings are broken or half baked. 
 
 ## Me in tech
-I am passionate about modern frontend: module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
+Focused on optimizing web performance, utilizing effective component design patterns, prioritizing accessibility (a11y), and implementing server-side rendering (SSR) and static-site generation (SSG) strategies. Experienced in developing highly reusable and Typescript-driven component libraries.
 
-
+## Interest
+module federation, micro frontends, Jamstack, state machines, test-driven development (TDD), system designs and web animations. 
 
 ## Core : Node + TS, Vuejs, ReactJs, and PHP (anyother thing to get it SHIPPED)
 
