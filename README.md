@@ -21,6 +21,7 @@ module federation, micro frontends, Jamstack, state machines, test-driven develo
 - <p><a href="https://github.com/johnexzy/Dalle-gen" target="_blank">Dalle-gen</a>: Bring Your Ideas to Life with Dall-e engine directly from discord </p>
 - <p><a href="https://afrodev.space" target="_blank">Afrodev.space</a> The Code Chronicles: Explore Practical Software Development Stories</p>
 - <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a>: Get Paid for Your Content with Token-Gated Access </p>
+- <p><a href="https://github.com/AfroLabsInc/trx-watcher/">Trx Watcher</a>:  A smart monitoring system that ensures that you're always up-to-date on your wallet transactions</p>
 
 
 
