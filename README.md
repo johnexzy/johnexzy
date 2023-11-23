@@ -12,7 +12,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 - test-driven development (TDD),
 - system designs,
 - web animations,
-- loggers, monitors and toolingd,
+- loggers, monitors and toolings,
 - improving client side developer experience. 
 
 ## Core : Node + TS, Vuejs, ReactJs, and PHP (anyother thing to get it SHIPPED)
