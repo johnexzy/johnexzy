@@ -11,6 +11,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 - jamstack and state machines,
 - test-driven development (TDD),
 - system designs,
+- web socket & real-time
 - web animations,
 - loggers, monitors and toolings,
 - improving client side developer experience. 
