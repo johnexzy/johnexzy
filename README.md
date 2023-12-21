@@ -22,7 +22,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 
 ## Side stuffs from my indie hacks
 - <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
-- <p><a href="https://web3bot.gg" target="_blank">Web3bot</a>: A super non-custodial wallet integration for blockchain discord communities</p>
+- <p><a href="https://web3bot-ui.web.app" target="_blank">Web3bot</a>: A super non-custodial wallet integration for blockchain discord communities</p>
 - <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a>: Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
 - <p><a href="https://annibo.onrender.com/" target="_blank">AnniBo</a>: Take Your Content Creation to the Next Level with GPT-3 </p>
 - <p><a href="https://qr-studio.vercel.app/" target="_blank">QRStudio</a>: Generate QR codes easily and customizable</p>
