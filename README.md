@@ -19,6 +19,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 ## Core : Node + TS, Vuejs, ReactJs, and PHP (anyother thing to get it SHIPPED)
 
 > Explore tech articles at [afrodev.space][3]
+> Explore Innovative & Novel Projects at [AfroLabs][5]
 
 ## Side stuffs from my indie hacks
 - <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
@@ -47,3 +48,4 @@ Experienced in developing highly reusable and Typescript-driven component librar
 [2]: https://twitter.com/intent/follow?screen_name=_afrodev
 [3]: https://afrodev.space
 [4]: https://annibo.up.railway.app/
+[5]: https://github.com/AfroLabsInc
