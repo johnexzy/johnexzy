@@ -30,6 +30,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 - <p><a href="https://afrodev.space" target="_blank">Afrodev.space</a> The Code Chronicles: Explore Practical Software Development Stories</p>
 - <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a>: Get Paid for Your Content with Token-Gated Access </p>
 - <p><a href="https://github.com/AfroLabsInc/trx-watcher/">Trx Watcher</a>:  A smart monitoring system that ensures that you're always up-to-date on your wallet transactions</p>
+- <p><a href="https://github.com/AfroLabsInc/marascan-contract">MachoMara</a>: Decentralised Donation platform that takes advantage of the Security and Transparency of the Blockchain technology to provide a secure, fast and verifiable channel for  donors to donate to the course of preserving our wildlife</p>
 
 
 
