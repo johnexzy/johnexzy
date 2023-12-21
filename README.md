@@ -19,6 +19,7 @@ Experienced in developing highly reusable and Typescript-driven component librar
 ## Core : Node + TS, Vuejs, ReactJs, and PHP (anyother thing to get it SHIPPED)
 
 > Explore tech articles at [afrodev.space][3]
+### 
 > Explore Innovative & Novel Projects at [AfroLabs][5]
 
 ## Side stuffs from my indie hacks
