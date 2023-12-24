@@ -23,17 +23,16 @@ Experienced in developing highly reusable and Typescript-driven component librar
 > Explore Innovative & Novel Projects at [AfroLabs][5]
 
 ## Side stuffs from my indie hacks
-- <p><a href="https://startuplist.africa" target="_blank">Startuplist Africa</a>: Unlock the Potential of African Startups with Startuplist Africa</p>
-- <p><a href="https://web3bot-ui.web.app" target="_blank">Web3bot</a>: A super non-custodial wallet integration for blockchain discord communities</p>
-- <p><a href="https://sendusdc.surge.sh" target="_blank">SendUsdc</a>: Implemented Gasless token transfer using EIP-3009 on Goerli testnet </p>
-- <p><a href="https://annibo.onrender.com/" target="_blank">AnniBo</a>: Take Your Content Creation to the Next Level with GPT-3 </p>
-- <p><a href="https://qr-studio.vercel.app/" target="_blank">QRStudio</a>: Generate QR codes easily and customizable</p>
-- <p><a href="https://github.com/johnexzy/Dalle-gen" target="_blank">Dalle-gen</a>: Bring Your Ideas to Life with Dall-e engine directly from discord </p>
-- <p><a href="https://afrodev.space" target="_blank">Afrodev.space</a> The Code Chronicles: Explore Practical Software Development Stories</p>
-- <p><a href="https://github.com/johnexzy/tokenpass-contract" target="_blank">Tokenpass</a>: Get Paid for Your Content with Token-Gated Access </p>
-- <p><a href="https://github.com/AfroLabsInc/trx-watcher/">Trx Watcher</a>:  A smart monitoring system that ensures that you're always up-to-date on your wallet transactions</p>
-- <p><a href="https://github.com/AfroLabsInc/marascan-contract">MachoMara</a>: Decentralised Donation platform that takes advantage of the Security and Transparency of the Blockchain technology to provide a secure, fast and verifiable channel for  donors to donate to the course of preserving our wildlife</p>
-
+- [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
+- [Web3bot](https://web3bot-ui.web.app): A super non-custodial wallet integration for blockchain discord communities
+- [SendUsdc](https://sendusdc.surge.sh): Implemented Gasless token transfer using EIP-3009 on Goerli testnet
+- [AnniBo](https://annibo.onrender.com/): Take Your Content Creation to the Next Level with GPT-3
+- [QRStudio](https://qr-studio.vercel.app/): Generate QR codes easily and customizable
+- [Dalle-gen](https://github.com/johnexzy/Dalle-gen): Bring Your Ideas to Life with Dall-e engine directly from discord
+- [Afrodev.space](https://afrodev.space): The Code Chronicles: Explore Practical Software Development Stories
+- [Tokenpass](https://github.com/johnexzy/tokenpass-contract): Get Paid for Your Content with Token-Gated Access
+- [Trx Watcher](https://github.com/AfroLabsInc/trx-watcher/): A smart monitoring system that ensures that you're always up-to-date on your wallet transactions
+- [MachoMara](https://github.com/AfroLabsInc/marascan-contract): MachoMara is a blockchain-based donation platform enhancing wildlife preservation through secure, transparent transactions and bridging Africa's technological gap with USSD and M-Pesa integration.
 
 
 ## 📬 Get in touch
