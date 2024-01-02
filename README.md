@@ -8,6 +8,7 @@ This is an exploration zone, somethings are broken or half baked.
 - test-driven development (TDD),
 - system designs,
 - web socket & real-time
+- bots (Discord, Slack Telegram)
 - web animations,
 - loggers, monitors and toolings,
 - improving client side developer experience. 
