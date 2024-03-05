@@ -29,7 +29,7 @@ This is an exploration zone, somethings are broken or half baked.
 - [Dalle-gen](https://github.com/johnexzy/Dalle-gen): Bring Your Ideas to Life with Dall-e engine directly from discord
 - [Afrodev.space](https://afrodev.space): The Code Chronicles: Explore Practical Software Development Stories
 - [Tokenpass](https://github.com/johnexzy/tokenpass-contract): Get Paid for Your Content with Token-Gated Access
-- [Trx Watcher](https://github.com/AfroLabsInc/trx-watcher/): A smart monitoring system that ensures that you're always up-to-date on your wallet transactions
+- [Trx Watcher](https://github.com/AfroLabsInc/trx-watcher/): A smart monitoring system ensuring you're always up-to-date on your wallet transactions
 - [MachoMara](https://github.com/AfroLabsInc/marascan-contract): MachoMara is a blockchain-based donation platform enhancing wildlife preservation through secure, transparent transactions and bridging Africa's technological gap with USSD and M-Pesa integration.
 
 
