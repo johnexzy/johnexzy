@@ -17,7 +17,7 @@ This is an exploration zone, somethings are broken or half baked.
 
 > Explore tech articles at [afrodev.space][3]
 ### 
-> Explore Blockchain Hacks & Novel Projects at [AfroLabs][5]
+> Explore My Blockchain Hacks & Novel Projects at [AfroLabs][5]
 
 ## Side stuffs and indie hacks
 - [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
