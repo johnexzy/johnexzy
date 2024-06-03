@@ -13,7 +13,7 @@ This is an exploration zone, somethings are broken or half baked.
 - loggers, monitors and toolings,
 - improving client side developer experience. 
 
-## Core : Node + TS, Vuejs, ReactJs, and PHP (anyother thing to get it SHIPPED)
+## Core : Node + TS, Vuejs, ReactJs, Next/Nuxt, Nest and The good old PHP (including anyother thing to get it SHIPPED)
 
 > Explore tech articles at [afrodev.space][3]
 ### 
