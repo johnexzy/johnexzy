@@ -34,7 +34,7 @@ This is an exploration zone, somethings are broken or half baked.
 
 ## Some persons might be interested in this stats
 
-<a href="http://www.github.com/johnexzy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=johnexzy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnexzy&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📬 Get in touch
 
