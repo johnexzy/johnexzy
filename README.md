@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is an exploration zone, somethings are broken or half baked. 
+This is an exploration zone, a space for continuous experimentation and learning, somethings are broken or half baked.
 
 ## Interest includes but not limited to
 - module federation & micro frontends, 
