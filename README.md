@@ -2,17 +2,6 @@
 
 This is an exploration zone, a space for continuous experimentation and learning, somethings are broken or half baked.
 
-## Interest includes but not limited to
-- module federation & micro frontends, 
-- jamstack and state machines,
-- test-driven development (TDD),
-- system designs,
-- web socket & real-time
-- bots (Discord, Slack Telegram)
-- web animations,
-- loggers, monitors and toolings,
-- improving client side developer experience. 
-
 ## Core : Node + TS, Vuejs, ReactJs, Next/Nuxt, Nest and The good old PHP (including anyother thing to get it SHIPPED)
 
 > Explore tech articles at [afrodev.space][3]
