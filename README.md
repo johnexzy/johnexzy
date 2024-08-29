@@ -21,10 +21,6 @@ This is an exploration zone, a space for continuous experimentation and learning
 - [Trx Watcher](https://github.com/AfroLabsInc/trx-watcher/): A smart monitoring system ensuring you're always up-to-date on your wallet transactions
 - [MachoMara](https://github.com/AfroLabsInc/marascan-contract): MachoMara is a blockchain-based donation platform enhancing wildlife preservation through secure, transparent transactions and bridging Africa's technological gap with USSD and M-Pesa integration.
 
-## Some boring stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnexzy&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/johnoba/][1]
