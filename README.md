@@ -2,7 +2,6 @@
 
 This is an exploration zone, a space for continuous experimentation and learning, somethings are broken or half baked.
 
-## Core : Node + TS, Vuejs, ReactJs, Next/Nuxt, Nest and The good old PHP (including anyother thing to get it SHIPPED)
 
 > Explore tech articles at [afrodev.space][3]
 ### 
