@@ -13,7 +13,7 @@ This is an exploration zone, a space for continuous experimentation and learning
 - [PeerPlay](https://peerplay.space): Watch videos with others in different locations at real time synchronously
 - [SendUsdc](https://sendusdc.surge.sh): Implemented Gasless token transfer using EIP-3009 on Goerli testnet
 - [AnniBo](https://annibo.onrender.com/): Take Your Content Creation to the Next Level with GPT-3
-- [QRStudio](https://qr-studio.vercel.app/): Generate QR codes easily and customizable
+- [QRStudio](https://qr-verse-studio.vercel.app/): Generate QR codes easily and customizable
 - [Dalle-gen](https://github.com/johnexzy/Dalle-gen): Bring Your Ideas to Life with Dall-e engine directly from discord
 - [Afrodev.space](https://afrodev.space): The Code Chronicles: Explore Practical Software Development Stories
 - [Tokenpass](https://github.com/johnexzy/tokenpass-contract): Get Paid for Your Content with Token-Gated Access
