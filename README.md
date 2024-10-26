@@ -7,6 +7,14 @@ This is an exploration zone, a space for continuous experimentation and learning
 ### 
 > Explore My Blockchain Hacks & Novel Projects at [AfroLabs][5]
 
+## Interest includes but not limited to
+- Recommendation System, 
+- Test-driven development (TDD),
+- AI Integration and Frontend Systems,
+- Web socket, WebRTC & and everything real-time
+- Web animations,
+- improving client side developer experience. 
+
 ## Side stuffs and indie hacks
 - [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
 - [Web3bot](https://web3bot-ui.web.app): A super non-custodial wallet integration for blockchain discord communities
