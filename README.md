@@ -8,9 +8,9 @@ This is an exploration zone, a space for continuous experimentation and learning
 > Explore My Blockchain Hacks & Novel Projects at [AfroLabs][5]
 
 ## Interest includes but not limited to
-- Recommendation System, 
+- Recommendation System Design, 
 - Test-driven development (TDD),
-- AI Integration and Frontend Systems,
+- LLM Integration and Frontend Systems,
 - Web socket, WebRTC & and everything real-time
 - Web animations,
 - improving client side developer experience. 
