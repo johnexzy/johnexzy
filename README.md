@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is an exploration zone, a space for continuous experimentation and learning, somethings are broken or half baked.
+This is an exploration zone, somethings are broken or half baked.
 
 
 > Explore tech articles at [afrodev.space][3]
@@ -8,12 +8,11 @@ This is an exploration zone, a space for continuous experimentation and learning
 > Explore My Blockchain Hacks & Novel Projects at [AfroLabs][5]
 
 ## Interest includes but not limited to
+- Web3, DeFi and Tooling
 - Recommendation System Design, 
-- Test-driven development (TDD),
 - LLM Integration and Frontend Systems,
 - Web socket, WebRTC & and everything real-time
-- Web animations,
-- improving client side developer experience. 
+- Developer Experience. 
 
 ## Side stuffs and indie hacks
 - [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
