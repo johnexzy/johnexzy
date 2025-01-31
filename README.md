@@ -14,7 +14,7 @@ This is an exploration zone, somethings are broken or half baked.
 - Web socket, WebRTC & and everything real-time
 - Developer Experience. 
 
-## Side stuffs and indie hacks
+## My Side indie hacks
 - [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
 - [Box.tools](https://box.tools): Your Digital Toolbox for Everyday Tasks
 - [Web3bot](https://web3bot-ui.web.app): A super non-custodial wallet integration for blockchain discord communities
