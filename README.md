@@ -16,6 +16,7 @@ This is an exploration zone, somethings are broken or half baked.
 
 ## Side stuffs and indie hacks
 - [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
+- [Box.tools](https://box.tools): Your Digital Toolbox for Everyday Tasks
 - [Web3bot](https://web3bot-ui.web.app): A super non-custodial wallet integration for blockchain discord communities
 - [PeerPlay](https://peerplay.space): Watch videos with others in different locations at real time synchronously
 - [SendUsdc](https://sendusdc.surge.sh): Implemented Gasless token transfer using EIP-3009 on Goerli testnet
