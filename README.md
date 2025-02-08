@@ -1,45 +1,47 @@
-# Hi there 👋
+# Hi there! 👋  
+Welcome to my exploration zone—some things here might be broken or half-baked. But hey, that's the fun of building! 🚀  
 
-This is an exploration zone, somethings are broken or half baked.
+### 🔍 About Me  
+I'm a **Product Engineer** passionate about innovation, building intelligent systems, and pushing the boundaries of technology. My expertise spans:  
+- **Web3, DeFi & Blockchain Tooling**  
+- **Recommendation System Design**  
+- **LLM Integration & AI-powered Applications**  
+- **Real-time Systems (WebSockets, WebRTC, Live Collaboration)**  
+- **Developer Experience & Tooling**  
 
+I enjoy hacking on new ideas, building indie projects, and writing about my experiences.  
 
-> Explore tech articles at [afrodev.space][3]
-### 
-> Explore My Blockchain Hacks & Novel Projects at [AfroLabs][5]
+🔗 Explore my tech articles at **[Afrodev](https://afrodev.space)**  
 
-## Interest includes but not limited to
-- Web3, DeFi and Tooling
-- Recommendation System Design, 
-- LLM Integration and Frontend Systems,
-- Web socket, WebRTC & and everything real-time
-- Developer Experience. 
+---
 
-## My Side indie hacks
-- [Startuplist Africa](https://startuplist.africa): Unlock the Potential of African Startups with Startuplist Africa
-- [Box.tools](https://box.tools): Your Digital Toolbox for Everyday Tasks
-- [Web3bot](https://web3bot-ui.web.app): A super non-custodial wallet integration for blockchain discord communities
-- [PeerPlay](https://peerplay.space): Watch videos with others in different locations at real time synchronously
-- [SendUsdc](https://sendusdc.surge.sh): Implemented Gasless token transfer using EIP-3009 on Goerli testnet
-- [AnniBo](https://annibo.onrender.com/): Take Your Content Creation to the Next Level with GPT-3
-- [QRStudio](https://qr-verse-studio.vercel.app/): Generate QR codes easily and customizable
-- [Dalle-gen](https://github.com/johnexzy/Dalle-gen): Bring Your Ideas to Life with Dall-e engine directly from discord
-- [Afrodev.space](https://afrodev.space): The Code Chronicles: Explore Practical Software Development Stories
-- [Tokenpass](https://github.com/johnexzy/tokenpass-contract): Get Paid for Your Content with Token-Gated Access
-- [Trx Watcher](https://github.com/AfroLabsInc/trx-watcher/): A smart monitoring system ensuring you're always up-to-date on your wallet transactions
-- [MachoMara](https://github.com/AfroLabsInc/marascan-contract): MachoMara is a blockchain-based donation platform enhancing wildlife preservation through secure, transparent transactions and bridging Africa's technological gap with USSD and M-Pesa integration.
+### 🚀 Featured Indie Projects  
+Here are some of my experiments, side projects, and Web3 innovations:  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnexzy&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-## 📬 Get in touch
+#### 🏆 Notable Hacks & Novel Projects  
+- **[Startuplist Africa](https://startuplist.africa/)** – Unlock the Potential of African Startups  
+- **[Box.tools](https://box.tools/)** – Your Digital Toolbox for Everyday Tasks  
+- **[Web3Bot](https://github.com/johnexzy/Web3Bot)** – Non-custodial wallet integration for blockchain Discord communities  
+- **[PeerPlay](https://peerplay.africa/)** – Watch videos with others in real-time across locations  
+- **[SendUSDC](https://github.com/johnexzy/SendUSDC)** – Gasless token transfers using EIP-3009 on Goerli testnet  
+- **[AnniBo](https://github.com/johnexzy/AnniBo)** – AI-powered content creation with GPT-3  
+- **[QRStudio](https://github.com/johnexzy/QRStudio)** – Customizable QR code generation tool  
+- **[Dalle-gen](https://github.com/johnexzy/Dalle-gen)** – Generate images from DALL-E directly in Discord  
+- **[TokenPass](https://github.com/johnexzy/TokenPass)** – Token-gated content monetization platform  
+- **[Trx Watcher](https://github.com/johnexzy/Trx-Watcher)** – Smart wallet transaction monitoring  
+- **[MachoMara](https://github.com/johnexzy/MachoMara)** – Blockchain-based donation platform for wildlife preservation, integrating USSD & M-Pesa  
 
-- LinkedIn: [linkedin.com/in/johnoba/][1]
-- Twitter: [twitter.com/_afrodev][2]
-- E-mail: [obajohn75@gmail.com]
-- Writes at : [Afrodev][3]
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnexzy&label=Profile%20views&color=0e75b6&style=flat" alt="johnexzy" /> </p>
+---
 
-[1]: https://www.linkedin.com/in/johnoba/
-[2]: https://twitter.com/intent/follow?screen_name=_afrodev
-[3]: https://afrodev.space
-[4]: https://annibo.up.railway.app/
-[5]: https://github.com/AfroLabsInc
+### 📊 GitHub Stats  
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnexzy&show_icons=true&theme=radical&include_all_commits=true)  
+
+---
+
+### 📬 Get in Touch  
+💼 **LinkedIn:** [linkedin.com/in/johnoba](https://linkedin.com/in/johnoba/)  
+🐦 **Twitter:** [twitter.com/_afrodev](https://twitter.com/_afrodev)  
+✉️ **Email:** obajohn75@gmail.com  
+📝 **Writes at:** [Afrodev](https://afrodev.space)  
+
+🚀 Let's build something amazing!  
