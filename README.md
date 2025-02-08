@@ -1,5 +1,5 @@
 # Hi there! 👋  
-Welcome to my exploration zone—some things here might be broken or half-baked. But hey, that's the fun of building! 🚀  
+Welcome to my exploration zone, some things here might be broken or half-baked. But hey, that's the fun of building! 🚀  
 
 ### 🔍 About Me  
 I'm a **Product Engineer** passionate about innovation, building intelligent systems, and pushing the boundaries of technology. My expertise spans:  
