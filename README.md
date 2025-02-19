@@ -19,7 +19,7 @@ I enjoy hacking on new ideas, building indie projects, and writing about my expe
 Here are some of my experiments, side projects, and Web3 innovations:  
 
 #### 🏆 Notable Hacks & Novel Projects  
-- **[Startuplist Africa](https://startuplist.africa/)** – Unlock the Potential of African Startups  
+- **[Startuplist Africa](https://startuplist.africa/)** – No. 1 Startup Intelligence System in Africa. Unlock the Potential of African Startups  
 - **[Box.tools](https://box.tools/)** – Your Digital Toolbox for Everyday Tasks  
 - **[Web3Bot](https://github.com/johnexzy/Web3Bot)** – Non-custodial wallet integration for blockchain Discord communities  
 - **[PeerPlay](https://peerplay.space/)** – Watch videos with others in real-time across locations  
