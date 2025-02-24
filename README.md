@@ -3,7 +3,7 @@ Welcome to my exploration zone, some things here might be broken or half-baked. 
 
 ### 🔍 About Me  
 I'm a **Product Engineer** passionate about innovation, building intelligent systems, and pushing the boundaries of technology. My expertise spans:  
-- **Web3, DeFi & Blockchain Tooling**  
+- **AI, DeFi & LLM Tooling**  
 - **Recommendation System Design**  
 - **LLM Integration & AI-powered Applications**  
 - **Real-time Systems (WebSockets, WebRTC, Live Collaboration)**  
