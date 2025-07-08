@@ -33,15 +33,9 @@ Here are some of my experiments, side projects, and Web3 innovations:
 
 ---
 
-### 📊 GitHub Stats  
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnexzy&show_icons=true&theme=radical&include_all_commits=true)  
-
----
-
 ### 📬 Get in Touch  
 💼 **LinkedIn:** [linkedin.com/in/johnoba](https://linkedin.com/in/johnoba/)  
 🐦 **Twitter:** [twitter.com/_afrodev](https://twitter.com/_afrodev)  
 ✉️ **Email:** obajohn75@gmail.com  
 📝 **Writes at:** [Afrodev](https://afrodev.space)  
-
-🚀 Let's build something amazing!  
+ 
