@@ -7,7 +7,7 @@ I'm a **Product Engineer** passionate about innovation, building intelligent sys
 - **AI, DeFi & LLM Tooling**  
 - **Recommendation System Design**  
 - **LLM Integration & AI-powered Applications**  
-- **Real-time Systems (WebSockets, WebRTC, Live Collaboration)**  
+- **Real-time Systems (WebSockets,SSE, WebRTC, Live Collaboration)**  
 - **Developer Experience & Tooling**  
 
 
