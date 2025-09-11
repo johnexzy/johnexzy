@@ -21,7 +21,7 @@ Here are some of my experiments, side projects, and Web3 innovations:
 #### 🏆 Notable Hacks & Novel Projects  
 - **[Startuplist Africa](https://startuplist.africa/)** – No. 1 Startup Intelligence System in Africa. Unlock the Potential of African Startups  
 - **[Box.tools](https://box.tools/)** – Your Digital Toolbox for Everyday Tasks  
-- **[Web3Bot](http://web3bot-ui.web.app/)** – Non-custodial wallet integration for blockchain Discord communities  
+- **[Web3Bot](http://web3bot-ui.web.app/)** – Non-custodial wallet integration for blockchain Discord communities. [repo](https://github.com/johnexzy/web3gg) 
 - **[PeerPlay](https://peerplay.space/)** – Watch videos with others in real-time across locations  
 - **[SendUSDC](https://github.com/johnexzy/SendUSDC)** – Gasless token transfers using EIP-3009 on Goerli testnet  
 - **[AnniBo](https://github.com/johnexzy/AnniBo)** – AI-powered content creation with GPT-3  
