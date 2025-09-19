@@ -31,11 +31,4 @@ Here are some of my experiments, side projects, and Web3 innovations:
 - **[Trx Watcher](https://github.com/johnexzy/Trx-Watcher)** – Smart wallet transaction monitoring  
 - **[MachoMara](https://github.com/johnexzy/MachoMara)** – Blockchain-based donation platform for wildlife preservation, integrating USSD & M-Pesa  
 
----
 
-### 📬 Get in Touch  
-💼 **LinkedIn:** [linkedin.com/in/johnoba](https://linkedin.com/in/johnoba/)  
-🐦 **Twitter:** [twitter.com/_afrodev](https://twitter.com/_afrodev)  
-✉️ **Email:** obajohn75@gmail.com  
-📝 **Writes at:** [Afrodev](https://afrodev.space)  
- 
