@@ -3,7 +3,7 @@
 some things here might be broken or half-baked. But hey, that's the fun of building! 🚀  
 
 ### 🔍 About Me  
-I'm a **Product Engineer** passionate about innovation, building intelligent systems, and pushing the boundaries of technology. My expertise spans:  
+I'm a **Product Engineer** passionate about innovation, building intelligent systems, and pushing the boundaries of technology. I spot race conditions from a mile:  
 - **AI, DeFi & LLM Tooling**  
 - **Recommendation System Design**  
 - **LLM Integration & AI-powered Applications**  
